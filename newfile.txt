@@ -1,0 +1,4 @@
+pass='ppassword'
+user='uuser'
+s
+d
